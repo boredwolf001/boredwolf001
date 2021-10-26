@@ -6,5 +6,6 @@
 
 - 🔭 I’m currently working on nothing special
 - 🌱 I’m currently learning VueJS
+- 🚀 I released [django starter kit](https://github.com/manethyethmin/django-starter)
 
 - 📫 How to reach me: info@myethmin.com
