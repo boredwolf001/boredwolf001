@@ -1,11 +1,22 @@
-### Hi there 👋 I am maneth
 
-<!--
-**manethyethmin/manethyethmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 🚀 About Me
+I'm maneth, a full stack developer...
 
-- 🔭 I’m currently working on a django project
-- 🌱 I’m currently learning everything
-- 🚀 I released [django starter kit](https://github.com/manethyethmin/django-starter)
 
-- 📫 How to reach me: info@myethmin.com
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## Other Common Github Profile Sections
+
+🧠 I'm currently learning everything
+
+📫 How to reach me - info@myethmin.com
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, Python, Django, VS Code, Git
+
+
