@@ -7,6 +7,6 @@ I'm maneth, a full stack developer...
 📫 How to reach me - info@myethmin.com
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, Python, Django, VS Code, Git
+Javascript, NodeJS, HTML, CSS, React, Python, Django, VS Code, Git
 
 
