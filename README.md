@@ -42,6 +42,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/manethye/chakra-ui-portfolio/issues/2) in [manethye/chakra-ui-portfolio](https://github.com/manethye/chakra-ui-portfolio)
+2. ❗️ Opened issue [#1](https://github.com/manethye/chakra-ui-portfolio/issues/1) in [manethye/chakra-ui-portfolio](https://github.com/manethye/chakra-ui-portfolio)
+3. ❗️ Opened issue [#3383](https://github.com/EddieHubCommunity/support/issues/3383) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Opened issue [#3382](https://github.com/EddieHubCommunity/support/issues/3382) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
