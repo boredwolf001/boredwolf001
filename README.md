@@ -35,6 +35,10 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#light-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only" style="padding-right:10px;" />
 
+<br />
+<br />
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
